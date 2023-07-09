@@ -418,6 +418,16 @@ margin-top: 20%;
   box-shadow:5px 5px 400px 100px #1c03ff;
 
 }
+body{
+  background:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)) ,url('scene1.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: auto;
+  width: auto;
+
+}
 @keyframes carslide {
 100%{
   width: 25%;
